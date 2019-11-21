@@ -24,3 +24,6 @@ ModuleNotFoundError                       Traceback (most recent call last)
       5 img = cv2.imread(img_source)
 
 ModuleNotFoundError: No module named 'cv2'
+
+<해결방법>
+윈도우를 포기하고 mac에서 한다
